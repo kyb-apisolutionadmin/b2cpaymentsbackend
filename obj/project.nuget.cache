@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zErbGkkM4XXv1oUqhUifAOMnT3qLjuGUtSrRO+4uv3C9gtD2nj9Tw0YtKdkU4RH0JFovICZwjO3SEAY54B5yw==",
+  "success": true,
+  "projectFilePath": "/Users/yussuf.ali/Documents/Development/Code4Good/Code4GoodBackEnd/Code4GoodBackEnd/Code4GoodBackEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/yussuf.ali/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/stripe.net/39.116.0/stripe.net.39.116.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/yussuf.ali/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

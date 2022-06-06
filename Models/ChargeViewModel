@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Code4GoodBackEnd.Models
+{
+    public class ChargeViewModel
+    {
+        public string StripeToken { get; set; }
+        public string FirstName { get; set; }
+        public string Email { get; set; }
+        public string CardNumber { get; set; }
+        public string Cvc { get; set; }
+    }
+}
